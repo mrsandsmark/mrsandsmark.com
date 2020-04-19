@@ -1,0 +1,52 @@
+.header
+{
+    font-size: 70px;
+    font-family: Helvetica, Serif;
+    background-image: url(../img/pattern.jpeg);
+    color:khaki;
+    text-align: center;
+    border-radius: 30px;
+}
+body
+{
+    font-family: Helvetica, Serif;
+}
+img
+{
+  border-radius: 100%;
+}
+#products
+{
+  font-size: 20px;
+}
+#products h1
+{
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+#products h3
+{
+    font-size: 32px;
+}
+#paint
+{
+    background-color: skyblue;
+    color: white;
+
+}
+#brushes
+{
+    background-color: mediumspringgreen;
+    color: white;
+}
+#frames
+{
+    background-color: lightcoral;
+    color: white;
+}
+.prices
+{
+    color:blue
+}

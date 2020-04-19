@@ -35,9 +35,7 @@ body
     display: inline;
     position: relative;
     bottom:30px;
-    left:300px
-    
-
+    left:50%;
 }
 #navlist li
 {
